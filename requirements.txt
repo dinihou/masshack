@@ -1,0 +1,10 @@
+cchardet
+aiohttp
+aiodns
+IP2Location
+netaddr
+aiofiles
+tqdm
+version-parser
+json5
+packaging
